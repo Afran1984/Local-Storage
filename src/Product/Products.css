@@ -1,0 +1,10 @@
+.boxs{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.margine{
+    border: 2px solid skyblue;
+    padding: 10px;
+    border-radius: 15px;
+}
